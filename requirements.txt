@@ -1,1 +1,5 @@
 pytest
+python-dotenv
+pandas
+colorama
+pytest-cov
