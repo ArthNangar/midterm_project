@@ -38,7 +38,7 @@ The project demonstrates solid **software design patterns** (Factory, Memento, O
 
 **Memento** Enables undo/redo functionality by saving calculator state 
 
-**Observer** | Notifies observers for logging and autosave after each calculation
+**Observer** Notifies observers for logging and autosave after each calculation
 
 ## Setup & Installation Guide
 Follow these steps to clone and run the project on your local machine:
@@ -149,6 +149,13 @@ Run with coverage:
 pytest --cov=app --cov-report=term-missing
 
 ```
+
+## Optional Advanced Features Implemented
+✅ Color-Coded Output: Below is the image showing the color coded.
+![](images/output1.png)
+
+![](images/output2.png)
+
 ### Technologies Used
 ```
 Python 3.11+
@@ -163,13 +170,6 @@ colorama
 
 GitHub Actions
 ```
-
-## Optional Advanced Features Implemented
-✅ Color-Coded Output: Below is the image showing the color coded.
-![](images/output1.png)
-
-![](images/output2.png)
-
 
 
 ## 👨‍💻 Author
